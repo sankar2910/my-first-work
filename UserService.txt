@@ -1,2 +1,2 @@
-UserService 
-get uuser input
+User Service 
+get user input
